@@ -1,4 +1,4 @@
-def reverse(word: str):
+def reverse(word):
     if len(word) == 1:
         return word
     else:
