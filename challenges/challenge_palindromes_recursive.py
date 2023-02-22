@@ -5,7 +5,7 @@ def reverse(word):
         return reverse(word[1:]) + word[0]
 
 
-def is_palindrome_recursive(word, low_index, high_index):
+def is_palindrome_recursive(word):
     if not word:
         return False
 
