@@ -2,7 +2,7 @@
 
 Este é um projeto da [Trybe](https://www.betrybe.com/) que foi desenvolvido no módulo de Ciência da Computação.
 
-Trata-se da resolução de problemas e otimização de algoritmos por meio da implementação de funções que retornam o valor esperado.
+Trata-se da resolução de problemas e otimização de algoritmos por meio da implementação de funções que resolvem os problemas propostos.
 
 ## Tecnologias utilizadas
 
